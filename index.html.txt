@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+	  <litle>Transformaciones con CSS</litle>
+          <meta charset="UTF-8">
+	  <meta name="viewport" content="width=device-
+witdth, user-scalable=no, initial-scale=1,maximum-
+scale=1, minimum-scale=1>
+	  <link rel="stylesheet" href="estilos.css">
+	</head>
+
+	<body>
+	   <div class="contenedor">
+		<div class="caja">Translate</div>
+		<div class="caja">Rotate</div>
+		<div class="caja"Scale</div>
+		<div class="caja"Skew</div>
+		</div>
+
+	</body>
+</html>
