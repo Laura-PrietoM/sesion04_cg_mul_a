@@ -22,9 +22,7 @@ body{
 .caja:nth-child(1){
 	background: purple;
 	transform: traslateX(100px)
-	transform: traslate(100px, 50px)
-	transform: rotate(50deg)
-	transform: scaleX(2)
+	
 }
 .caja:nth-child(2){
 	background: purple;
@@ -38,9 +36,7 @@ body{
 	background: purple;
 	transform: skewX(10deg)
 }
-.caja:nth-child(4){
-	background: purple;
-	transform: matrix(a,b,c,d,e,f)// a y d son 
-}
+
+
 .caja:nth-child(1):hover{
 }
