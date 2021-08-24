@@ -38,20 +38,24 @@ body{
 	background: #41c0b3;
 	border-radius: 50%;
 }
-
-.caja:nth-child(1):hover{
-	background: purple;
-	transform: traslateX(100px)
-}
-.rombo:nth-child(1):hover{
-	background: red;
-	transform: rotate(50deg)
-}
-.paralelogramo:nth-child(1):hover{
-	background: red;
-	transform: scaleX(2)
-}
 .ovalo:nth-child(1):hover{
-	background: red;
-	transform: scaleX(2)
+	background: black;
+	transform: translateX(20px)
+	
 }
+.caja:nth-child(2):hover{
+	background: blue;
+	transform: skewX(80deg)
+}
+
+.rombo:nth-child(3):hover{
+	background: yellow;
+	transform: rotate(100deg)
+	
+	
+}
+.paralelogramo:nth-child(4):hover{
+	border-bottom: solid #F7BFBE 100px;
+	transform: scaleX(3)
+}
+
